@@ -80,7 +80,7 @@
 + [PDFPatcher](https://github.com/wmjordan/PDFPatcher)：github下载，很好用，主要是PDF转图片，PDF分割、合并
 + [iLovePDF](https://www.ilovepdf.com/zh-cn)：无需下载直接使用，大部分功能都有
 
-**绿裙**：https://github.com/CS-BAOYAN/CS-BAOYAN-Wiki，**全国最大非商业用爱交流计算机保研交流群**
+**绿裙**：https://github.com/CS-BAOYAN/CS-BAOYAN-Wiki，  **全国最大非商业用爱交流计算机保研交流群**
 
 **四非保研鼠群**：https://github.com/mousebaoyan/mousebaoyan.github.io，可以加群，也有很多佬
 
